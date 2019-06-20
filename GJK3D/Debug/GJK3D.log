@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\profiles\njp2424\desktop\physics\level5\physics-gjk-3d-mastervs2019\gjk3d\main.cpp(456): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\profiles\njp2424\desktop\physics\level5\physics-gjk-3d-mastervs2019\gjk3d\main.cpp(483): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GJK3D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level5\physics-GJK-3D-masterVS2019\GJK3D\Debug\GJK3D.exe
